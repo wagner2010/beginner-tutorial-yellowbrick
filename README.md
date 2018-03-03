@@ -2,7 +2,8 @@
 ## Group members:
 - Juan L. Kehoe (juanluo2008@gmail.com)
 - Adam Morris
-## Purpose: Help people with no or rare programming experiences to start getting into the data science world with the help of yellowbrick.
+## Purpose: 
+Help people with no or rare programming experiences to start getting into the data science world with the help of yellowbrick.
 ## Methods: videos, blogs and tutorial posts
 ## Deliverables: 
 - video: How to install Python and yellowbrick
