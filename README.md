@@ -4,7 +4,8 @@
 - Adam Morris
 ## Purpose: 
 Help people with no or rare programming experiences to start getting into the data science world with the help of yellowbrick.
-## Methods: videos, blogs and tutorial posts
+## Methods: 
+videos, blogs and tutorial posts
 ## Deliverables: 
 - video: How to install Python and yellowbrick
 - blog: Why Python and yellowbrick for data science project
