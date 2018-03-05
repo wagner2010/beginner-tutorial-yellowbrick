@@ -3,7 +3,7 @@
 
 # Outline:
 ## Introduction
-## Python and yellowbrick installation
+## Python, sci-kit learn and yellowbrick installation
 ## Case study: 
 ### Exploratory data analysis
 ### Feature selection and feature engineering
@@ -15,7 +15,7 @@
 |Title | Due date|
 |------|---------|
 |Introduction | 3-7-2018 |
-|Python and yellowbrick installation | 3-14-2018 |
+|Python, sci-kit learn, yellowbrick installation | 3-14-2018 |
 |Exploratory data analysis | 3-28-2018 |
 |Feature selection and feature engineering | 4-11-2018 |
 |Model building and predicting | 4-25-2018 |
