@@ -4,5 +4,5 @@
 # Timeline
 |Title | Due date|
 |------|---------|
-|Python, sci-kit learn install | 3-14-2018 |--I think we can include yb install too within the (blog post?).  Let me know what you think.
-|yellowbrick install | 3-28-2018 |
+|Python, sci-kit learn, yellowbrick install | 3-14-2018 |--I think we can include yb install too within the (blog post?).  Let me know what you think.
+|| 3-28-2018 |
